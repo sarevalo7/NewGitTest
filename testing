@@ -1,9 +1,3 @@
 it's 10:04 AM, I'm trying out git using the Git Bash
 
-ok now this line is my "new changes" 
-
-
-NOTES: suggested workflow of the github tutorial 
-1. git pull to get everyone's changes from the previous day
-2. make changes, add, commit, push
-3. ESC:wq to get out of full blown commit 
+ok now this line is my "new changes"; Let's see if this will make for a merge conflict 
